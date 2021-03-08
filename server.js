@@ -7,7 +7,7 @@ const mongoose = require("mongoose");
 const path = require("path");
 
 //port
-const port = 4000;
+const port = 8080;
 
 //routes
 const productRoute = require("./routes/product");
